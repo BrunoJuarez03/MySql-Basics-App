@@ -1,0 +1,22 @@
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\MySql.Data.dll
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\System.Memory.dll
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\System.Buffers.dll
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\MySql.Data.xml
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\BrunosNotes.csproj.AssemblyReference.cache
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\Porototyping.Form1.resources
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\Porototyping.Form2.resources
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\BrunosNotes.csproj.GenerateResource.cache
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\BrunosNotes.csproj.CoreCompileInputs.cache
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\BrunosNo.891B19F7.Up2Date
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\BrunosMysqlBasicsNotes.Properties.Resources.resources
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\Bruno's MySql Basics_Notes.exe.config
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\Bruno's MySql Basics_Notes.exe.manifest
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\Bruno's MySql Basics_Notes.application
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\Bruno's MySql Basics_Notes.exe
+C:\Users\54381\source\repos\Porototyping\Porototyping\bin\Debug\Bruno's MySql Basics_Notes.pdb
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\Bruno's MySql Basics_Notes.exe.manifest
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\Bruno's MySql Basics_Notes.application
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\Bruno's MySql Basics_Notes.exe
+C:\Users\54381\source\repos\Porototyping\Porototyping\obj\Debug\Bruno's MySql Basics_Notes.pdb
